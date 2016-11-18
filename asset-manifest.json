@@ -1,5 +1,19 @@
 {
   "commons.js.js": "commons.js",
-  "main.css": "static/css/main.4d4abc83.css",
-  "main.js": "static/js/main.a5d07803.js"
+  "main.css": "static/css/main.7b1a622a.css",
+  "main.js": "static/js/main.5f231f64.js",
+  "static\\media\\apk.png": "static/media/apk.b57a0940.png",
+  "static\\media\\audio.png": "static/media/audio.fd75225f.png",
+  "static\\media\\default.png": "static/media/default.f86ddc2e.png",
+  "static\\media\\doc.png": "static/media/doc.6167687f.png",
+  "static\\media\\exe.png": "static/media/exe.a0ff1307.png",
+  "static\\media\\folder.png": "static/media/folder.fe544ccf.png",
+  "static\\media\\html.png": "static/media/html.195198e1.png",
+  "static\\media\\js.png": "static/media/js.cffd46fd.png",
+  "static\\media\\pdf.png": "static/media/pdf.ae4e37a8.png",
+  "static\\media\\psd.png": "static/media/psd.93523dc5.png",
+  "static\\media\\rar.png": "static/media/rar.667d9c98.png",
+  "static\\media\\txt.png": "static/media/txt.6d41969f.png",
+  "static\\media\\video.png": "static/media/video.7880c8d1.png",
+  "static\\media\\xls.png": "static/media/xls.08289afe.png"
 }
